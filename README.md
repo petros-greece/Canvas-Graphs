@@ -40,6 +40,6 @@ graph.show();
 
 ## Demo
 
-[Click here fro a demo](https://siteland.eu/tools/canvas-graphs/)
+[Click here for the demo](https://siteland.eu/tools/canvas-graphs/)
 
 

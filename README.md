@@ -37,3 +37,9 @@ var options = {
 var graph = new Graph('myCanvas', options);
 graph.show();
 ```
+
+## Demo
+
+[Click here fro a demo](https://siteland.eu/tools/canvas-graphs/)
+
+
